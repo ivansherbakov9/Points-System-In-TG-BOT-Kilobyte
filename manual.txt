@@ -1,0 +1,21 @@
+────────────────────────────── ❑ ──────────────────────────────
+•Created by Ivan Shcherbakov (github: https://github.com/ivansherbakov9) (telegram: https://t.me/Gunner951)
+────────────────────────────── ❑ ──────────────────────────────
+
+
+██╗░░██╗██╗██╗░░░░░░█████╗░██████╗░██╗░░░██╗████████╗███████╗
+██║░██╔╝██║██║░░░░░██╔══██╗██╔══██╗╚██╗░██╔╝╚══██╔══╝██╔════╝
+█████═╝░██║██║░░░░░██║░░██║██████╦╝░╚████╔╝░░░░██║░░░█████╗░░
+██╔═██╗░██║██║░░░░░██║░░██║██╔══██╗░░╚██╔╝░░░░░██║░░░██╔══╝░░
+██║░╚██╗██║███████╗╚█████╔╝██████╦╝░░░██║░░░░░░██║░░░███████╗
+╚═╝░░╚═╝╚═╝╚══════╝░╚════╝░╚═════╝░░░░╚═╝░░░░░░╚═╝░░░╚══════╝
+
+•1. Contact me for more detailed instructions and tips. (github: https://github.com/ivansherbakov9) (telegram: https://t.me/Gunner951)
+•2. Add the bot to your telegram chat.
+•3. Assign the bot as an administrator and give it all possible rights. This is important.
+•4. In the admin prefix, write: "points sys.(/pi)". This is important.
+•5. Write "/pi" in the chat.
+•6. Observe the MIT license and enjoy!
+────────────────────────────── ❑ ──────────────────────────────
+•Created by Ivan Shcherbakov (https://github.com/ivansherbakov9/Points-System-In-TG-BOT-Kilobyte)
+────────────────────────────── ❑ ──────────────────────────────

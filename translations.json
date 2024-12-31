@@ -1,0 +1,18 @@
+{
+    "ru": {
+        "system_points_info":"🏆 | Система баллов (/pi).\n\tБаллы знатока - это число, которое показывает насколько человек разбирается в данной области.\n\tЧем больше число после слова 'Знаток:', тем больше можно полагаться на советы и ответы человека.\n\n🔱 Существуют следующие ранги репутации:\n\t• ♝ - Начальный ранг. (Знаток: 1-10)\n\t• ♜ - Продвинутый ранг. (Знаток: 11-20)\n\t• ♛ - Профессиональный ранг. (Знаток: 21+)\n\n📒 Условия:\n\t• Балл дается за помощь или ответ, который помог найти решение вашего вопроса на тему AI/ML/DL.\n\t• Вы можете давать баллы, только после того, как пройдете верификацию - /v .\n\t• Если вы будете замечены в не справедливом получении или начислении другому пользователю баллов, вы будете наказаны.\n\n💻 Команды:\n\t• /pi - получить информацию о системе баллов.\n\t• /v - пройти верификацию.\n\t• /pa - добавить балл участнику, ответив на его сообщение.\n\t• /pb - посмотреть свое кол-во баллов.\n",
+        "verification_success": "❑: Верификация прошла успешно. Спасибо. (/pi)",
+        "reply_to_add_point": "❑: Чтобы добавить балл, ответьте на сообщение человека. (/pi)",
+        "cannot_add_point": "❑: Вы не можете выдавать баллы, пока не пройдете верификацию - /v.",
+        "point_added": "❑: Пользователю успешно добавлен 1 балл. Спасибо. (/pi)",
+        "your_profile": "Ваш профиль(/pi):\n{rank}Знаток: {points}"
+    },
+    "eng": {
+        "system_points_info":"🏆 | Points system (/pi).\n\tKnowledge points show how well a person understands the field.\n\tThe higher the number after 'Expert:', the more you can rely on the person's advice and answers.\n\n🔱 Reputation ranks:\n\t• ♝ - Beginner rank. (Expert: 1-10)\n\t• ♜ - Advanced rank. (Expert: 11-20)\n\t• ♛ - Professional rank. (Expert: 21+)\n\n📒 Conditions:\n\t• A point is awarded for help or an answer that helped solve your question about AI/ML/DL.\n\t• You can award points only after completing verification - /v .\n\t• If you are caught unfairly awarding or receiving points, you will be penalized.\n\n💻 Commands:\n\t• /pi - get information about the points system.\n\t• /v - complete verification.\n\t• /pa - add a point to a participant by replying to their message.\n\t• /pb - check your points balance.\n",
+        "verification_success": "❑: Verification was successful. Thank you. (/pi)",
+        "reply_to_add_point": "❑: To add a point, reply to the user's message. (/pi)",
+        "cannot_add_point": "❑: You cannot award points until you complete verification - /v.",
+        "point_added": "❑: 1 point has been successfully added to the user. Thank you. (/pi)",
+        "your_profile": "Your profile(/pi):\n{rank}Expert: {points}"
+    }
+}
