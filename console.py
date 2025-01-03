@@ -32,9 +32,6 @@ class Debug:
 def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def clear_console():
-    os.system('cls' if os.name == 'nt' else 'clear')
-
 def set_lang(lang):
     if lang not in ["ru", "eng"]:
         Debug.error("Invalid language. Available: ru, eng")
