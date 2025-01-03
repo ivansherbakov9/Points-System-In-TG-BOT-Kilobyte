@@ -13,9 +13,6 @@ title = f"{Fore.GREEN}───────────────────�
 LANG_FILE = "lang.txt"
 USER_POINTS_FILE = "user_points.json"
 
-LANG_FILE = "lang.txt"
-USER_POINTS_FILE = "user_points.json"
-
 class Debug:
     @staticmethod
     def info(message):
