@@ -6,7 +6,8 @@
 **Chronic flaws were found in this points system during the discussion,**
 **so we recommend using this system only if you know what you are doing or want to improve it.**
 
-**At the moment, we are open to discussion and improvement of this code from any user.**
+**At the moment, we are open to discussion and improvement of this code from any user:**
+https://github.com/ivansherbakov9/Points-System-In-TG-BOT-Kilobyte/discussions/1
 
 Admin(telegram): @gunner951
 
